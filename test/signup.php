@@ -1,6 +1,4 @@
 
-<!--134984--- Kaguamere Nelson Kamau------ BBIT Grp A1-->
-
 <?php 
 
 include("database.php");

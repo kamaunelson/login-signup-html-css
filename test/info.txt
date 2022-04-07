@@ -5,6 +5,6 @@ The" database.php" file has the database connection to the database named "test"
 
 The "process_signup.php" has the process of registering a new user to the database "test" and is connected to the "signup.php" file. 
 
-
+On the the login page you can the the header from login page to any other relative page you want. ( header:("index.html"))
  
  incase fo any clarification reach out to me on this email "nelson.kaguamere@strathmore.edu".

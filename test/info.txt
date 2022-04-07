@@ -4,5 +4,7 @@ The" database.php" file has the database connection to the database named "test"
 "name" column, the "username-email" column and the last is the "password" column.
 
 The "process_signup.php" has the process of registering a new user to the database "test" and is connected to the "signup.php" file. 
+
+
  
  incase fo any clarification reach out to me on this email "nelson.kaguamere@strathmore.edu".
